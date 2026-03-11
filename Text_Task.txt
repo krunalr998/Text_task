@@ -1,2 +1,5 @@
 Krunal Rohankar
 DA30
+git status: gives information about current status
+git add filename
+git add .
